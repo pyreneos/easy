@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "158567542922",
+    "project_id": "easy-b1669",
+    "firebase_url": " https://easy-b1669-default-rtdb.europe-west1.firebasedatabase.app",
+    "storage_bucket": "easy-b1669.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158567542922:android:1440e60c3d5375b42bfd73",
+        "android_client_info": {
+          "package_name": "com.GDSCMETU3.easy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158567542922-djrci0ra7s9giepv9cuegsm7jqmfc1hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYQZ91kgEbMKK9wEcMokn9MZKUlbXH1so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158567542922-djrci0ra7s9giepv9cuegsm7jqmfc1hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
